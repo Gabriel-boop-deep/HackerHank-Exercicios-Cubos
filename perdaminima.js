@@ -39,6 +39,7 @@ while(x<tamanhoLista){
         x=0;
         j++;
     }
+    //Limita o j pois ele é incrementado quando x se iguala ao parametro da lista
     if(j>6){
         break;
     }
